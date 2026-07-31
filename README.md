@@ -38,8 +38,8 @@ Released
 
 ## Play Now
 
-Itch.io
+- **Itch.io:**
 https://eageronic-games.itch.io/paper-plane-endless-flight
 
-Game Jolt
+- **Game Jolt:**
 https://gamejolt.com/games/paper-plane-endless-flight/1088258
