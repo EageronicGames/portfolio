@@ -32,9 +32,9 @@ Released
 
 ## Screenshots
 
-![Screenshot1](screenshot1.png)
-![Screenshot2](screenshot2.png)
-![Screenshot3](screenshot3.png)
+![Menu](menu.png)
+![Gameplay](gameplay.png)
+![Gameover](gameover.png)
 
 ## Play Now
 
