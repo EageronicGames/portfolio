@@ -24,6 +24,10 @@ Features
 - Mobile support
 - PC support
 
+Status
+
+Released
+
 # Paper Plane: Endless Flight
 
 ## Screenshots
@@ -32,6 +36,10 @@ Features
 ![Screenshot2](screenshot2.png)
 ![Screenshot3](screenshot3.png)
 
-Status
+## Play Now
 
-Released
+Itch.io
+https://eageronic-games.itch.io/paper-plane-endless-flight
+
+Game Jolt
+https://gamejolt.com/games/paper-plane-endless-flight/1088258
